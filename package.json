@@ -1,10 +1,13 @@
 {
   "name": "react-progress-bar",
-  "version": "1.0.0",
+  "version": "1.0.2",
   "description": "a progress bar in react without external UI libraries.",
   "author": "plamenpentchev",
   "license": "MIT",
-  "repository": "plamenpentchev/react-progress-bar",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/plamenpentchev/react-progress-bar.git"
+},
   "main": "dist/index.js",
   "module": "dist/index.modern.js",
   "source": "src/index.js",
